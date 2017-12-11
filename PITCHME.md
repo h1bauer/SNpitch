@@ -1,4 +1,4 @@
-# Conhecimentos adiquiridos ServiceNow - 101 administration - 201 developer.
+# Conhecimentos ServiceNow - 101 administration - 201 developer.
 
 +++
 ---
@@ -9,27 +9,33 @@
 
 ### Lists & Forms
 
-* Records,,
-![logo]assets/Table.png
-* Filters & Search
-* Context Menus
-* Modifying Lists/ Forms
+* Records
+![logo]assets/
 +++
-### Customizations
-
-* Part 1/ 2
-* Update Sets & Plugins
+* Filters & Search
+![logo]assets/
++++
+* Context Menus
+![logo]assets/
++++
+* Modifying Lists/ Forms
+![logo]assets/
 +++
 ### Tables & Fields
 
 * Tables/ Fields
+![logo]assets/Table.png
++++
 * Table Relationships & Schemas
-* Creating an Aplication
+![logo]assets/Table2.ng
 +++
 ### User Administration
 
 * Users & Groups
+![logo]assets/
++++
 * Roles & Acces Controls
++++
 * LDAP & SSO
 +++
 ### Core Aplications
@@ -44,8 +50,6 @@
 
 * System Administrator
 * Events & Notifications
-* Workflows
-* Import Sets
 * Reporting
 +++
 ---
