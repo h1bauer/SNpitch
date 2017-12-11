@@ -9,7 +9,8 @@
 
 ### Lists & Forms
 
-* Records
+* Records,,
+![logo]assets/Table.png
 * Filters & Search
 * Context Menus
 * Modifying Lists/ Forms
@@ -54,6 +55,7 @@
 
 * Business Rules
 * Client Scripts
+![logo]assets/CS.png
 * UI Actions
 * UI Polocies
 * Scrip Includes
